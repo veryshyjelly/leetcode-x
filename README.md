@@ -1,9 +1,8 @@
-# LeetCode X
+# Leetcode
 
-My LeetCode solutions, organized by programming language. Each language has its own branch and project structure.
+## Format
+- Files are grouped according to their tag (eg. linked_list, tree, etc.)
+- Every file contains the question link at the top
 
-| Language | Branch |
-| --- | --- |
-| Elixir | [elixir](https://github.com/veryshyjelly/leetcode-x/tree/elixir) |
-
-The Elixir branch contains the solution files, Mix configuration, and tests imported from [Leetcode-Elixir](https://github.com/veryshyjelly/Leetcode-Elixir).
+## Contributions
+- Please submit any question requests, or corrections in the issues
